@@ -1,0 +1,41 @@
+[33mcommit a339a6f15e3310df4232421edbb76793d1f2cab2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: yaswanth <yaswanthgeddada@gmail.com>
+Date:   Sat Oct 17 18:40:21 2020 +0530
+
+    checking reset
+
+[33mcommit 970aaf82e9a1ffd22639d87e82ceaabe0133efe3[m
+Author: yaswanth <yaswanthgeddada@gmail.com>
+Date:   Sat Oct 17 09:21:33 2020 +0530
+
+    conflict second file created
+
+[33mcommit 16c5e472c46010ab46e8850e0587493b2a4e085c[m
+Author: yaswanth-geddada <72921303+yaswanth-geddada@users.noreply.github.com>
+Date:   Sat Oct 17 09:15:38 2020 +0530
+
+    Create fileconflict.txt
+
+[33mcommit 4b0cd27bf8e3f672075cd92448a9d4f206dc1ac7[m
+Author: yaswanth-geddada <72921303+yaswanth-geddada@users.noreply.github.com>
+Date:   Thu Oct 15 21:55:47 2020 +0530
+
+    created github.txt
+
+[33mcommit 6dc4fce004b3c94241128240772e442b590281e1[m
+Author: yaswanth <yaswanthgeddada@gmail.com>
+Date:   Thu Oct 15 21:51:19 2020 +0530
+
+    last file added
+
+[33mcommit f5e349f2dd9d0478b21e2c8608b1ef07fc92f050[m
+Author: yaswanth <yaswanthgeddada@gmail.com>
+Date:   Thu Oct 15 16:57:21 2020 +0530
+
+    second commit
+
+[33mcommit 4cd9e9b6f835d9f1a60cdc38aae0fe6b365af806[m
+Author: yaswanth <yaswanthgeddada@gmail.com>
+Date:   Thu Oct 15 16:56:15 2020 +0530
+
+    first commit
